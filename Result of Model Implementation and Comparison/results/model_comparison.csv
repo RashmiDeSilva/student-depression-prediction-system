@@ -1,0 +1,6 @@
+Model,Accuracy,AUC,F1-Score,Prediction Time (s)
+Logistic Regression,0.8424,0.915,0.8683,0.0072
+SVM,0.8422,0.9151,0.8682,4.1244
+XGBoost,0.8425,0.9155,0.8679,0.0385
+Random Forest,0.8407,0.9131,0.8666,0.4169
+Decision Tree,0.8303,0.8972,0.8576,0.0081
